@@ -1,0 +1,36 @@
+* {
+    margin: 100;
+    padding: 100;
+    color: white;
+}
+
+body{
+    background-color: rgb(18, 12, 105);
+}
+
+h1{
+    font-size: 75px;
+}
+
+p{
+    font-size: 30px;
+}
+
+button{
+    margin: 50px;
+    padding: 40px 40px;
+    font-size: 30px;
+    background-color: rgb(16, 4, 55);
+}
+
+footer{
+    padding: 30px 10%;
+}
+
+#block{
+    margin: auto;
+}
+
+#number{
+    font-size: 30px;
+}
